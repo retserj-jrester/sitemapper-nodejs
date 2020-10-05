@@ -49,6 +49,6 @@
   },
   "mapper": {
     "refreshPeriodInDays": 7,
-    "maxNodesToShow": 200
+    "maxNodesToShow": 2000
   }
 }
